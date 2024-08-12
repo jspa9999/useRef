@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+.fm{
+  display: inline-block;
+  padding: 25px;
+  background-color: skyblue;
+}
+.abc{
+  display: inline-block;
+  width: 150px;
+}
+.frm{
+  margin: 15px;
+}
